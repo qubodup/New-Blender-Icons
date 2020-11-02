@@ -2,6 +2,4 @@ Fresh Blender icons - because over the years of frustrating early learning, the 
 
 Demo + installation (can be tricky as &@#*(&@ on Windows): https://www.youtube.com/watch?v=jAbFAnD98gQ
 
-![preview of 2.8](282prev.png "svg preview wrong but icons fine")
-
-![preview](preview.png "Ignore the b/w svg please")
+![preview](preview.png "icons preview")
